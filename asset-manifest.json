@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/YumYard/static/css/main.20a5d946.css",
-    "main.js": "/YumYard/static/js/main.0a55976f.js",
+    "main.js": "/YumYard/static/js/main.01065249.js",
     "static/media/copy6.jpg": "/YumYard/static/media/copy6.98500714c160f4437f43.jpg",
     "static/media/copy5.jpg": "/YumYard/static/media/copy5.ac9fd6dce573bbc2d61d.jpg",
     "static/media/Meal.jpg": "/YumYard/static/media/Meal.7a9cb78d0656394cdac6.jpg",
     "index.html": "/YumYard/index.html",
     "main.20a5d946.css.map": "/YumYard/static/css/main.20a5d946.css.map",
-    "main.0a55976f.js.map": "/YumYard/static/js/main.0a55976f.js.map"
+    "main.01065249.js.map": "/YumYard/static/js/main.01065249.js.map"
   },
   "entrypoints": [
     "static/css/main.20a5d946.css",
-    "static/js/main.0a55976f.js"
+    "static/js/main.01065249.js"
   ]
 }

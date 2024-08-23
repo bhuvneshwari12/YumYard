@@ -1,0 +1,37 @@
+/* NavBar.module.css */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000000;
+  padding: 10px;
+
+}
+
+.navItems {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navItem {
+  margin-right: 10px;
+}
+
+.navItem a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navItem a:hover {
+  color: lightgray;
+}
+
+.active {
+  background-color: #0f0e0e;
+  text-align: center;
+  margin: 2rem;
+}
